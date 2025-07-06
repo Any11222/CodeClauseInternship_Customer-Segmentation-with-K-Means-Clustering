@@ -3,18 +3,18 @@
 This project uses K-Means Clustering to segment customers based on their **Annual Income** and **Spending Score**, helping businesses understand different customer types for targeted marketing.
 
 ---
-
 ## 📁 Project Structure
 
+```plaintext
 customer-segmentation/
 │
-├── Mall_Customers.csv # Original dataset
-├── kmeans_customer_segmentation.py # Python script
-├── elbow_method.png # Elbow method to find optimal clusters
-├── customer_segments.png # Cluster visualization
-├── clustered_customers.csv # Dataset with cluster labels
-└── README.md # Project documentation
-
+├── Mall_Customers.csv               # Original dataset
+├── kmeans_customer_segmentation.py  # Python script
+├── elbow_method.png                 # Elbow method to find optimal clusters
+├── customer_segments.png            # Cluster visualization
+├── clustered_customers.csv          # Dataset with cluster labels
+└── README.md                        # Project documentation
+```
 
 ---
 
