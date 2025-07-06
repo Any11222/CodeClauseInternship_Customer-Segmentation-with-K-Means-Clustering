@@ -77,12 +77,15 @@ Install required libraries using pip:
 
 ```bash
 pip install pandas matplotlib scikit-learn
+```
+---
 
-🚀 How to Run
+## 🚀 How to Run
+
 Make sure all files are in the same directory, then run:
-
+```bash
 python kmeans_customer_segmentation.py
-
+```
 The script will:
 Print the first few rows of the dataset
 Generate and save two plots:
