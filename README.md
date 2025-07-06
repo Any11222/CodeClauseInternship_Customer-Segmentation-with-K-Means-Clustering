@@ -87,12 +87,15 @@ Make sure all files are in the same directory, then run:
 python kmeans_customer_segmentation.py
 ```
 The script will:
-Print the first few rows of the dataset
-Generate and save two plots:
+
+🖨️ Print the first few rows of the dataset
+
+📊 Generate and save two plots:
 
 elbow_method.png
+
 customer_segments.png
 
-Export a new dataset with cluster labels to:
+💾 Export a new dataset with cluster labels to:
 
 clustered_customers.csv
